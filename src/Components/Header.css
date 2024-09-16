@@ -1,0 +1,12 @@
+.heading{
+  display: flex;
+  justify-content: center;
+  font-weight: 700  ;
+  font-size: 45px;
+}
+.para{
+  font-size: 35px;
+  /* margin: 20px; */
+  padding-left: 20px;
+  margin-left: 35px;
+}
